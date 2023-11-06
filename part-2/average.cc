@@ -1,7 +1,7 @@
 // Steve Morales
 // stevejmorales@csu.fullerton.edu
 // @stevem87
-// Partner: @Wen-qqi
+// Partners: @Wen-qqi
 
 #include <iostream>
 #include <string>
